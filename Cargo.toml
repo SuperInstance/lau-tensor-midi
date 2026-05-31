@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Tensor field MIDI engine for reactive improvisation — I Ching hexagrams, Taoist conservation of chi, the Book of Changes as a tensor field of possibility."
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-tensor-midi"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
